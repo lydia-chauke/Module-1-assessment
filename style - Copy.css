@@ -1,0 +1,15 @@
+
+table{
+   font-family: sans-serif; 
+   border-collapse: collapse;
+    border-width: medium;
+        border-style:solid;
+            border-color: #f00a80;
+
+}
+
+th{
+ font-weight: 800;
+ background-color: #f00a80;
+ color: #ffffff;
+}
